@@ -1,0 +1,13 @@
+# Путь к корневой папке датасета
+path: C:/YOLO_Hand_Detector/dataset
+train: images/train
+val: images/val
+test:
+
+# Названия классов
+names:
+  0: hand
+  1: background
+
+# Количество классов
+nc: 2
